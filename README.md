@@ -58,6 +58,18 @@ Hi, I'm Mayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from B
 
 ```
 
+📊 **This Week I Spent My Time On** 
 
+```text
+⌚︎ Time Zone: Bangladesh/Dhaka
+
+💬 Programming Languages: 
+Other                    57 hrs 17 mins      █████████████████████████   100.0%
+
+🔥 Editors: 
+Chrome                   45 hrs 53 mins      ████████████████████░░░░░   80.11% 
+Zsh                      11 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   19.89%
+
+```
 
 
