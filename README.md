@@ -1,36 +1,43 @@
-[![image](https://github.com/PrashantGaikwad-iOS/PrashantGaikwad-iOS/blob/master/githubImg.png)](https://github.com/PrashantGaikwad-iOS?tab=repositories)
+## Skykey <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/Mario_Hello_Big.gif" width="30px">
 
+### Hello,World! 👋
 
-<br/>
-<a href="https://twitter.com/prashant160593">
-  <img align="left" alt="Prashant Gaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://in.linkedin.com/in/prashant-gaikwad-28840178?trk=people-guest_people_search-card">
-  <img align="left" alt="Prashant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/prashant_iosdev/">
-  <img align="left" alt="Prashant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCdPBFWPvcWSEgZGPfUF9eyA/videos?pbjreload=101">
-  <img align="left" alt="Prashant's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<br />
+> Talk is cheap. Show me the code.
+>
+> -Linus Torvalds
 
-## I'm a Developer, and Teacher!
+Hi, I'm Skykey 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Cpp/Qt. Currently, I'm working on [QtDocCN](https://github.com/QtDocumentCN/QtDocumentCN). Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
-- 🔭 I’m working on Swift and Java projects
-- 🌱 Currently learning Flutter
-- 💬 Ask me about anything 😛
-- 🥅 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to go on long drives on my Royal Enfield
-- 📫 How to reach me: Email - itsmeprashantg@gmail.com
+​	<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-### Details:
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Prashant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PrashantGaikwad-iOS&show_icons=true&hide_border=true" />
-</details>
+**Current Status Quo**
+
+* 👨🏻‍💻 I’m currently working on [QtDocCN](https://github.com/QtDocumentCN/QtDocumentCN).
+* 🌱 I’m currently learning C++/Qt.
+* 🤔  I hope to be a linux system development programmer. 🐧
+* 💬 Ask me about anything and I would like to answer.
+* 📫 Please email via [zcxzxlc@163.com](zcxzxlc@163.com) to reach me.
 
 
 
+---
 
+
+
+![stats](https://github-readme-stats.vercel.app/api?username=skykeyjoker&show_icons=true&hide_border=true)
+
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+<!--
+**skykeyjoker/skykeyjoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
