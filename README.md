@@ -48,17 +48,7 @@ Hi, I'm Mayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from B
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.5%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
 
-> 🏆 1,684 Contributions in the Year 2020
- > 
-> 📦 59.1 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 52 Public Repositories
- > 
-> 🔑 11 Private Repositories 
 
 **I'm a Night 🦉** 
 
@@ -71,27 +61,5 @@ Hi, I'm Mayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from B
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Other                    57 hrs 17 mins      █████████████████████████   100.0%
-
-🔥 Editors: 
-Chrome                   45 hrs 53 mins      ████████████████████░░░░░   80.11% 
-Zsh                      11 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   19.89%
-
-```
-
-**Timeline**
-
-![Chart not found](https://github.com/nasyxx/nasyxx/blob/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nasyxx.nasyxx) -->
 
 
