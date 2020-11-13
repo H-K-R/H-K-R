@@ -8,7 +8,7 @@ Hi, I'm Mayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from B
 
 
 
-Current Status Quo
+### Current Status Quo:
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning C++/PHP
