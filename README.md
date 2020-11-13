@@ -35,7 +35,7 @@ Hi, I'm Mayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from B
 
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=H-K-R&show_icons=true&hide_border=true)
+
 
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
 
