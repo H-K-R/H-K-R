@@ -19,5 +19,5 @@ Hi, I'm Mayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from B
 - 📫  Please email via mayracse19@gmail.com to reach me
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=H-K-R&&show_icons=true&title_color=4169E1&icon_color=bb2acf&text_color=708090&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=H-K-R&&show_icons=true&title_color=800000&icon_color=bb2acf&text_color=708090&bg_color=151515">
 
