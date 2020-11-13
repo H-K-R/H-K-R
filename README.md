@@ -24,6 +24,8 @@ Hi, I'm Mayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from B
 
 <br>
 <br>
+<br>
+
 
 
 <p align="center">
@@ -37,7 +39,7 @@ Hi, I'm Mayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from B
 
 
 
-
+<br>
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
 
 
