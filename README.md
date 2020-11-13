@@ -1,16 +1,19 @@
-### Hi there 👋
+### Here is What I'm Working On! 👋
 
-<!--
-**H-K-R/H-K-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Talk is cheap. Show me the code.
 
-Here are some ideas to get you started:
+-Linus Torvalds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Mayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source profession and always develop in Cpp. Currently, I'm working on Web Design & Development. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+
+
+
+Current Status Quo
+
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning C++/PHP
+- 🤔 I hope to be a linux system development programmer. 🐧
+- 💬 Ask me about anything and I would like to answer.
+- 📫  Please email via mayracse19@gmail.com to reach me
+
+
