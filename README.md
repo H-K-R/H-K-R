@@ -30,7 +30,7 @@ Hi, I'm Mayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from B
  <br>
  <br>
  <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&theme=dracula"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&theme=dracula"/>
  
   
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=H-K-R&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
@@ -41,9 +41,7 @@ Hi, I'm Mayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from B
 
 
 
- <a href="https://github.com/H-K-R?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-R-K&theme=merko" />
-  </a>
+ 
 
 
 
