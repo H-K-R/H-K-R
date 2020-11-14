@@ -15,8 +15,10 @@ Hi, I'm Mayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from B
 **Skills :** Python, Java, C/C++, Javascript, PHP
 ----
 **Tools :** Git, Github, Bitbucket, VS Code
+----
 
 **Current Status Quo:**
+----
 
 * 👨🏻‍💻 I’m currently working on Web Development.
 * 🌱 I’m currently learning C++/PHP.
