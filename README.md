@@ -24,7 +24,7 @@ Hi, I'm Humayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from
 * 🌱 I’m currently learning C++/PHP.
 * 🤔  I hope to be a linux system development programmer. 🐧
 * 💬 Ask me about anything and I would like to answer.
-* 📫 Please email via mayracse19@gmail.com to reach me.
+* 📫 Please email via humayrakhanom@protonmail.com to reach me.
 
 
 
