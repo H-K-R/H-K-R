@@ -6,7 +6,7 @@
 >
 > -Linus Torvalds
 
-Hi, I'm Humayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source profession and always develop in Cpp. Currently, I'm working on Web Design & Development. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Humayra 😉, 22 Years old Developer and programmer 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source profession and always develop in Cpp. Currently, I'm working on Web Design & Development. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 </br>
 </br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
@@ -20,8 +20,8 @@ Hi, I'm Humayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from
 ----
 
 * 👨🏻‍💻 I’m currently working on Web Development.
-* 🌱 I’m currently learning C++/PHP.
-* 🤔  I hope to be a linux system development programmer. 🐧
+* 🌱 I’m currently learning C++.
+* 🤔 I hope to be a linux system development programmer. 🐧
 * 💬 Ask me about anything and I would like to answer.
 * 📫 Please email via humayrakhanom@protonmail.com to reach me.
 
