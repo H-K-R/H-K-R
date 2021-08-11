@@ -41,7 +41,7 @@ Hi, I'm Humayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from
   </P><br>
   
  
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&layout=compact&hide=html" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&layout=compact" />
  
 ----------------
 
