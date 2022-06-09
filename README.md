@@ -1,4 +1,4 @@
-## Humayra <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/Mario_Hello_Big.gif" width="30px">
+## Humayra <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/Mario_Hello_Big.gif" width="5px">
 
 ### Hola,World! 👋
 
