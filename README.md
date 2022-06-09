@@ -25,7 +25,7 @@ Hi, I'm Humayra 😉, 22 Years old **Developer** and **Programmer** 👨🏻‍�
 * 🌱 I’m currently working on **Deep Learning**.
 * 🤔 I hope to be proficient in linux system administration.🐧
 * 💬 Ask me about anything and I would like to answer.
-* 📫 Please contact me via humayrakhanom@protonmail.com.
+* 📫 Please contact me via humayrakhanom@protonmail.com
 
 
 
