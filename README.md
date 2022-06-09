@@ -1,5 +1,5 @@
 <h1 align="center">MOST HUMAYRA KHANOM RIME</h1>
-<h3 align="center">MERN-Stack Web Developer<span color="blue"> & </span>Deep Learning Enthusiast <span color="blue"> & </span> Undergrade student of CSE</h3>
+<h3 align="center">MERN-Stack Web Developer<span color="blue"> & </span>Deep Learning Enthusiast <span color="blue"> & </span> Undergrade Student of CSE</h3>
 
 ### Hola,World! 👋
 
@@ -7,7 +7,7 @@
 >
 > -Linus Torvalds
 
-Hi, I'm Humayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source profession and always develop in Cpp. Currently, I'm working on Web Design & Development. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Humayra 😉, 21 Years old Developer and Programmer 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source profession and always develop in Cpp. I am passionate about Machine Learning, Deep Learning, and Vision. Currently, looking for an internship. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 </br>
 </br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
@@ -20,8 +20,8 @@ Hi, I'm Humayra 😉, 21 Years old Developer and programmer 👨🏻‍💻 from
 **Current Status Quo:**
 ----
 
-* 👨🏻‍💻 I’m currently working on Web Development.
-* 🌱 I’m currently learning C++.
+* 🔭 I’m currently working on [Self Employment].
+* 🌱 I’m currently learning **Deep Learning** .
 * 🤔 I hope to be a linux system development programmer. 🐧
 * 💬 Ask me about anything and I would like to answer.
 * 📫 Please email via humayrakhanom@protonmail.com to reach me.
