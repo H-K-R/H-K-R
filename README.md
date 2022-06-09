@@ -2,6 +2,7 @@
 <h3 align="center">MERN-Stack Web Developer<span color="blue"> & </span>Deep Learning Enthusiast <span color="blue"> & </span> Undergrade Student of CSE</h3>
 
 
+
 ### Hola,World! 👋
 
 > Talk is cheap. Show me the code.
@@ -38,7 +39,7 @@ Hi, I'm Humayra 😉, 22 Years old **Developer** and **Programmer** 👨🏻‍�
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&layout=compact&hide=html&theme=dracula"/>
  
   
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=H-K-R&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=H-K-R&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </P><br>
   
  
