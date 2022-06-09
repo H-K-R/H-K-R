@@ -8,14 +8,14 @@
 >
 > -Linus Torvalds
 
-Hi, I'm Humayra 😉, 22 Years old Developer and Programmer 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source profession and always develop in Python. I am passionate about **Machine Learning**, **Deep Learning**, and **Vision**. Currently, looking for an internship. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Humayra 😉, 22 Years old **Developer** and **Programmer** 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source profession and always develop in Python. I am passionate about **Machine Learning**, **Deep Learning**, and **Vision**. Currently, looking for an internship. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 </br>
 </br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 **Skills :** Python, Java, C/C++, Javascript, PHP
 </br>
-**Tools :** Git, Github, Bitbucket, VS Code
+**Tools :** Git, Github, VS Code, Linux
 
 
 **Current Status Quo:**
@@ -35,10 +35,10 @@ Hi, I'm Humayra 😉, 22 Years old Developer and Programmer 👨🏻‍💻 from
  <br>
  <br>
  <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&layout=compact&hide=html&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-K-R&layout=compact&hide=html&theme=dracula"/>
  
   
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=H-K-R&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=H-K-R&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </P><br>
   
  
