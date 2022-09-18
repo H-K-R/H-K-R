@@ -32,7 +32,7 @@ Hi, I'm Humayra 😉, 22 Years old **Developer** and **Programmer** 👨🏻‍�
 <p align="left">
 <a href="https://www.linkedin.com/in/humayra-khanom/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge"></a>
 <a href="https://codepen.io/humayrakhanom" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen badge"></a>
-
+<a href="mailto:humayra.k.rime.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 
