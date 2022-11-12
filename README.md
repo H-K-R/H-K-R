@@ -7,7 +7,7 @@
 
 > Talk is cheap. Show me the code.
 >
-> --Linus Torvalds
+> -Linus Torvalds
 
 Hi, I'm Humayra 😉, 22 Years old **Developer** and **Programmer** 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source profession and i like to develop in Python. I am passionate about **Machine Learning**, **Deep Learning**, and **Vision**. Currently, looking for an internship. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 </br>
