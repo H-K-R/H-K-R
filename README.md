@@ -7,7 +7,7 @@
 
 > Talk is cheap. Show me the code.
 >
-> -Linus Torvalds
+> - Linus Torvalds
 
 Hi, I'm Humayra 😉, 22 Years old **Developer** and **Programmer** 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source profession and i like to develop in Python. I am passionate about **Machine Learning**, **Deep Learning**, and **Vision**. Currently, looking for an internship. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 </br>
@@ -22,7 +22,7 @@ Hi, I'm Humayra 😉, 22 Years old **Developer** and **Programmer** 👨🏻‍�
 **Current Status Quo:**
 ----
 
-* 🔭 I’m currently working on **Deep Learning**.
+* 🔭 I’m currently working on **Deep Learning** and **Three.js**.
 * 🌱 I’m currently learning everything.🤣
 * 🤔 I hope to be proficient in linux system administration.🐧
 * 💬 Ask me about anything and I would like to answer.
