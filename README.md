@@ -64,9 +64,11 @@ Hi, I'm Humayra 😉, 22 years old **Developer** and **Programmer** 👨🏻‍�
  
 ----------------
 
-
+<div align=center>
 
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+  
+</div>
 
 
 
