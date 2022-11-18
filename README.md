@@ -16,7 +16,7 @@ Hi, I'm Humayra 😉, 22 years old **Developer** and **Programmer** 👨🏻‍�
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
-**Skills :** Python, Java, C/C++, Javascript
+**Skills :** Python, Java, C/C++, JavaScript
 </br>
 **Tools :** Git, Github, VS Code, Linux
 
