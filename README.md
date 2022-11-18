@@ -23,7 +23,7 @@ Hi, I'm Humayra 😉, 22 years old **Developer** and **Programmer** 👨🏻‍�
 **Current Status Quo:**
 ----
 
-* 🔭 I’m currently working on **Deep Learning** and **Three.js**.
+* 🔭 I’m currently working on **Deep Learning**.
 * 🌱 I’m currently learning everything.🤣
 * 🤔 I hope to be proficient in linux system administration.🐧
 * 💬 Ask me about anything and I would like to answer.
