@@ -1,5 +1,5 @@
 <h1 align="center">MOST HUMAYRA KHANOM RIME</h1>
-<h3 align="center">MERN-Stack Web Developer<span color="blue"> & </span>Deep Learning Enthusiast <span color="blue"> & </span> Undergrad Student of CS</h3>
+<h3 align="center">Full-Stack Web Developer<span color="blue"> & </span>Deep Learning Enthusiast <span color="blue"> & </span> Undergrad Student of CS</h3>
 
 
 
