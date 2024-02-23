@@ -9,7 +9,7 @@
 >
 > -Linus Torvalds
 
-Hi, I'm Humayra 😉, 23 years old **Developer** and **Programmer** 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source professional, and I like to develop in Python. I am passionate about **Machine Learning**, **Deep Learning**, and **Vision**. Currently, I'm looking to collaborate on open-source projects. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Humayra 😉, 24 years old **Developer** and **Programmer** 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source professional, and I like to develop in Python. I am passionate about **Machine Learning**, **Deep Learning**, and **Vision**. Currently, I'm looking to collaborate on open-source projects. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 </br>
 </br>
 </br>
@@ -24,7 +24,7 @@ Hi, I'm Humayra 😉, 23 years old **Developer** and **Programmer** 👨🏻‍�
 **Current Status Quo:**
 ----
 
-* 🔭 I’m currently working on **Deep Learning**.
+* 🔭 I’m currently working on **NLP**.
 * 🌱 I’m currently learning everything.🤣
 * 🤔 I hope to be proficient in linux system administration.🐧
 * 💬 Ask me about anything and I would like to answer.
