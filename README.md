@@ -15,15 +15,13 @@ Hi, I'm Humayra 😉, 24 years old **Developer** and **Programmer** 👨🏻‍�
 </br>
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
-
 **Skills :** Python, Java, C/C++, JavaScript
 </br>
 **Tools :** Git, Github, VS Code, Linux
 
 
-**Current Status Quo:**
------
+**Current Status Quo:** <img width="450px" align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+
 
 * 🔭 I’m currently working on **NLP**.
 * 🌱 I’m currently learning everything.🤣
