@@ -21,7 +21,7 @@ Hi, I'm Humayra 😉, 24 years old **Developer** and **Programmer** 👨🏻‍�
 
 
 **Current Status Quo:**
-----
+---
 
 * 🔭 I’m currently working on **NLP**.
 * 🌱 I’m currently learning everything.🤣
