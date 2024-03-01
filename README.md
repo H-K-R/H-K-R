@@ -26,7 +26,6 @@ Hi, I'm Humayra 😉, 24 years old **Developer** and **Programmer** 👨🏻‍�
 * 💬 Ask me about anything and I would like to answer.
 * 📫 Please contact me via humayra.k.rime@gmail.com
 
-</br>
 
 <h2 align="left">Connect With Me:</h2>
 
