@@ -11,8 +11,6 @@
 
 Hi, I'm Humayra 😉, 24 years old **Developer** and **Programmer** 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source professional, and I like to develop in Python. I am passionate about **Machine Learning**, **Deep Learning**, and **Computer Vision**. Currently, I'm looking to collaborate on open-source projects. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 </br>
-</br>
-</br>
 
 **Skills :** Python, Java, C/C++, JavaScript
 </br>
