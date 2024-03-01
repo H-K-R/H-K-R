@@ -17,7 +17,7 @@ Hi, I'm Humayra 😉, 24 years old **Developer** and **Programmer** 👨🏻‍�
 **Tools :** Git, Github, VS Code, Linux
 
 
-## Current Status Quo: <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+## Current Status Quo: <img width="450px" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 
 * 🔭 I’m currently working on **NLP**.
