@@ -1,4 +1,4 @@
-<h1 align="center">MOST HUMAYRA KHANOM RIME</h1>
+<h1 align="center">HUMAYRA KHANOM RIME</h1>
 <h3 align="center"> Deep Learning Enthusiast <span color="blue"> & </span>Full-Stack Web Developer<span color="blue"> & </span>  Graduate Student of CS </h3>
 
 
@@ -9,7 +9,7 @@
 >
 > -Linus Torvalds
 
-Hi, I'm Humayra 😉, 24 years old **Engineer** and **Programmer** 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source professional, and I like to develop in Python. I am passionate about **Machine Learning**, **Deep Learning**, and **Computer Vision**. Currently, I'm looking to collaborate on open-source projects. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Humayra 😉, 25 years old **Engineer** and **Programmer** 👨🏻‍💻 from Bangladesh 🇧🇩. I'm an open-source professional, and I like to develop in Python. I am passionate about **Machine Learning**, **Deep Learning**, and **Computer Vision**. Currently, I'm looking to collaborate on open-source projects. Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 </br>
 
 **Skills :** Python, Java, C/C++, JavaScript
@@ -39,8 +39,8 @@ Hi, I'm Humayra 😉, 24 years old **Engineer** and **Programmer** 👨🏻‍�
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/humayrakhanomrime/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@humayrakhanomrime)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/humayrakhanomri)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mosthumayrakhanomrime)
-[![Research_Gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Most-Humayra-Khanom-Rime)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@humayrakhanomrime)
+[![Research_Gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Humayra-Khanom-Rime)
 [![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-3052-8336)
 [![Google_Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=VYSzUF8AAAAJ&hl=en)
   
